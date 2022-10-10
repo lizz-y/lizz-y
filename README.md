@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-bull
+- 👋 Hi, I’m @lizz-y
 - I’m interested in anime, video games, and coding
 - I’m currently learning javascript
 - Some day I would like to develop my own game
