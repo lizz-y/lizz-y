@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizz-y
 - I’m interested in anime, video games, and coding
-- I’m currently learning JavaScript
+- I’m currently learning Web Development
 - Some day I would like to develop my own game
 - E-mail at elizabeth.a.bullard@outlook.com
 
